@@ -1,0 +1,15 @@
+com\api\restApi\RestApiApplication.class
+com\api\restApi\entity\request\Product.class
+com\api\restApi\service\ProductService.class
+com\api\restApi\service\UserDetailsImpl.class
+com\api\restApi\entity\ERole.class
+com\api\restApi\entity\request\ReqModel.class
+com\api\restApi\security\jwt\AuthEntryPoint.class
+com\api\restApi\entity\request\CreateProductReq.class
+com\api\restApi\controller\ProductController.class
+com\api\restApi\entity\response\ResModel.class
+com\api\restApi\entity\User.class
+com\api\restApi\entity\request\LoginRequest.class
+com\api\restApi\entity\Role.class
+com\api\restApi\repository\ProductRepository.class
+com\api\restApi\util\webClientUtil.class
